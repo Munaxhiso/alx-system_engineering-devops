@@ -1,2 +1,2 @@
-#!/bin/bash
-chown vincent:staff*
+ange_owner_and_group:#!/bin/bash
+ chown vincent:staff*
